@@ -123,7 +123,7 @@ def makeHtml(blist,path):
     <div id="footer">
             <div class="footer-extra"></div>
 <span id="icp" class="fleft gray-link">
-    &copy; 2005－2016 douban.com, all rights reserved 北京豆网科技有限公司
+    &copy; 2015-2016 www.alanzjl.com Contact with me at alanzhaojl@gmail.com
 </span>
 </body>
 </html>'''
